@@ -165,8 +165,8 @@ h1 {
   padding: 0.5em;
  color: #592525;
  text-align: center;
- font: 1.2em; 
- font-family: 'Glegoo', serif;
+ font-size: 1.5em; 
+ font-family: 'Source Sans Pro', sans-serif;
  }
 
 main {
@@ -194,15 +194,15 @@ main picture {
 }
 main p {
    color: #F2EAD0;
-   font-family: 'Glegoo', serif;
+   font-family: 'Source Sans Pro', sans-serif;
    align-content: center;
+   font-size: 1.2em; 
+
    }
 
   h3 h4{
-  font-family: 'Glegoo', serif;
+    font-family: 'Source Sans Pro', sans-serif;
  }
-
-
 
 .cards img  {
 	width:350px;
@@ -214,6 +214,7 @@ p {
     padding: 0;
 	letter-spacing: 0.05rem;
 	line-height: 1;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 #preston-heading{

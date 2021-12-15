@@ -55,7 +55,23 @@ body {
 }
 ul.show {
   top: 65px;
+}.btn {
+  display: inline-block;
+  width: 90px;
+  height: 90px;
+  background: #f1f1f1;
+  margin: 10px;
+  border-radius: 30%;
+  box-shadow: 0 5px 15px -5px #00000070;
+  color: #3498db;
+  overflow: hidden;
+  position: relative;
 }
+h3{
+  position: relative;
+  left:50px;
+}
+
 
 @media screen and (max-width: 952px) {
   .logo{

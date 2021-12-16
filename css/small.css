@@ -70,7 +70,7 @@ h3 {
 	border: 1px dashed #94A6A4;
 	background-color: #D9D0D6;
     box-shadow: 0 0 30px #402124;
-    opacity: .8;
+    opacity: .9;
 	color: #402124;
 	font-size: 11px;
     top: 240px;
@@ -81,6 +81,18 @@ h3 {
     border-radius: 10px;
     margin: 4px;
 }
+.shiny-btn  {
+    padding: 50px 0;
+    border-radius: 20px;
+    padding: 20px 50px;
+    margin: 10px;
+    width: 100px;
+    position: relative;
+    left: 500px;
+    background-color: #592525;
+    font-size: 15px;
+    color: white;
+  }
 #forecast-section {
     position: relative;
     left: 250px;
@@ -195,6 +207,8 @@ h4 {
       left: -10%;
     }
   }
+
+  
 
 main {
     font-family: 'Glegoo', serif;
